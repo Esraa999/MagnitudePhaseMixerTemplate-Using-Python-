@@ -1,0 +1,3 @@
+
+conda install -c conda-forge qimage2ndarray
+conda install -c conda-forge opencv

@@ -1,0 +1,24 @@
+2020-03-31 07:57:35,485 Opened Image :C:/Users/hp/Desktop/TaskThreeEsraaHosam/results/blue-icon .png
+2020-03-31 07:57:37,566 FFT Component Showed : FFTImage1 is selected Magnitude FFTImage2 is selected Magnitude
+2020-03-31 07:57:39,388 FFT Component Showed : FFTImage1 is selected Phase FFTImage2 is selected Magnitude
+2020-03-31 07:57:41,250 FFT Component Showed : FFTImage1 is selected Imaginary FFTImage2 is selected Magnitude
+2020-03-31 07:57:43,850 FFT Component Showed : FFTImage1 is selected Real FFTImage2 is selected Magnitude
+2020-03-31 07:57:47,651 Opened Image :C:/Users/hp/Desktop/TaskThreeEsraaHosam/results/unnamed.png
+2020-03-31 07:57:51,466 FFT Component Showed : FFTImage1 is selected Real FFTImage2 is selected Magnitude
+2020-03-31 07:57:53,532 FFT Component Showed : FFTImage1 is selected Real FFTImage2 is selected Phase
+2020-03-31 07:57:55,623 FFT Component Showed : FFTImage1 is selected Real FFTImage2 is selected Imaginary
+2020-03-31 07:57:57,721 FFT Component Showed : FFTImage1 is selected Real FFTImage2 is selected Real
+2020-03-31 07:58:00,900 image Selection : Image1 is selected Image 1 Image2 is selected Image 1
+2020-03-31 07:58:08,791 Invalid Mixing
+2020-03-31 07:58:08,791 Component Selection : Component 1 is selected Real Component 2 is selected Magnitude
+2020-03-31 07:58:11,790 image Selection : Image1 is selected Image 1 Image2 is selected Image 2
+2020-03-31 07:58:14,293 Component Selection : Component 1 is selected Real Component 2 is selected Imaginary
+2020-03-31 07:58:20,590 Parameters That  Will Be Mixed : <imageModel.ImageModel object at 0x000001CA53FB0A58> 1.0  99.0 Real
+2020-03-31 07:58:20,608 Output Selection : Output1 is selected Output One 
+2020-03-31 07:58:20,608 Output Mix generated : 1.0 Real  99.0 
+2020-03-31 07:58:38,199 Invalid Mixing
+2020-03-31 07:58:38,203 Component Selection : Component 1 is selected Uniform Magnitude Component 2 is selected Imaginary
+2020-03-31 07:58:40,871 Component Selection : Component 1 is selected Uniform Magnitude Component 2 is selected Uniform Phase
+2020-03-31 07:58:46,726 Parameters That  Will Be Mixed : <imageModel.ImageModel object at 0x000001CA53FB0A58> 1.0  99.0 UniformMagnitude
+2020-03-31 07:58:46,730 Output Selection : Output1 is selected Output Two 
+2020-03-31 07:58:46,730 Output Mix generated : 1.0 UniformMagnitude  99.0 UniformPhase
